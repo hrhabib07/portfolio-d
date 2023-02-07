@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
+
+* {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}
+
+.top-header {
+    height: 837px;
+    width: 100%;
+    display: flex;
+    align-items: end;
+    justify-content: space-between;
+    background-image: url(../images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+
+}
+
+.photo-container {}
+
+.photo-container img {
+    padding: 0;
+    margin: 0;
+
+}
