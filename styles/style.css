@@ -41,3 +41,29 @@ nav li {
     list-style: none;
     margin-right: 20px;
 }
+
+/* style for banner  */
+.banner {
+    display: flex;
+    align-items: center;
+    margin: 50px 200px;
+}
+
+.banner-title {
+    color: #181818;
+    font-weight: 700;
+    font-size: 85px;
+}
+
+.banner-subtitle {
+    font-weight: 600;
+    font-size: 45px;
+    color: #474747;
+}
+
+.banner-description {
+    font-weight: 400;
+    font-size: 18px;
+
+    color: #757575;
+}
