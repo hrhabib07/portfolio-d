@@ -9,6 +9,15 @@
     color: #FD6E0A;
 }
 
+.btn-primary {
+    height: 60px;
+    font-weight: 700;
+    font-size: 20px;
+    background-color: #FD6E0A;
+    color: white;
+
+}
+
 .nav-title {
     font-weight: 800;
     font-size: 45px;
