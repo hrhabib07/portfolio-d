@@ -21,6 +21,29 @@
 
 }
 
+.normal-text {
+    color: #757575;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.title-text {
+    font-weight: 700;
+    font-size: 30px;
+    color: #474747;
+}
+
+.subtitle-text {
+    color: #474747;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.text-secondary {
+    color: #757575;
+    font-size: 16px;
+    line-height: 28px;
+}
 
 .header {
     background-color: #FFF8F3;
@@ -91,6 +114,8 @@ main {
 
 .section-title {
     text-align: center;
+    font-size: 35px;
+
 }
 
 .section-description {
@@ -137,4 +162,20 @@ main {
     color: #757575;
     font-size: 16px;
 
+}
+
+/* resume summary section  */
+.summary-container {
+    display: flex;
+}
+
+.uni-container {
+    width: 511px;
+    height: 175px;
+    margin-right: 50px;
+}
+
+.classic-button {
+    text-align: center;
+    margin: 0 40%;
 }
