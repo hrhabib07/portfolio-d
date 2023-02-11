@@ -106,3 +106,24 @@ main {
 .info-container p {
     color: #757575;
 }
+
+
+/* what I do style  */
+
+
+.card {
+    height: 307px;
+    width: 267px;
+    padding: 30px;
+    border: 1px solid gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.card-description {
+    color: #757575;
+    font-size: 16px;
+
+}
