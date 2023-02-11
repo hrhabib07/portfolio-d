@@ -21,6 +21,15 @@
 
 }
 
+
+.header {
+    background-color: #FFF8F3;
+    background-image: url('../images/header_bg.png'), url('../images/developer.png');
+    background-repeat: no-repeat;
+    background-position: bottom right, 20px;
+
+}
+
 .nav-title {
     font-weight: 800;
     font-size: 45px;
@@ -46,7 +55,7 @@ nav li {
 .banner {
     display: flex;
     align-items: center;
-    margin: 50px 200px;
+    margin: 50px 50px 50px 200px;
 }
 
 .banner-title {
